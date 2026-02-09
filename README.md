@@ -6,8 +6,6 @@
 
 **Ermöglicht Kunden, WHMCS-Angebote direkt per E-Mail-Link zu akzeptieren – ohne Login erforderlich.**
 
-![WHMCS Quote Accept](https://via.placeholder.com/800x400/1a73e8/ffffff?text=WHMCS+Quote+Accept+Without+Login)
-
 ## 📋 Übersicht
 
 Dieser Action Hook erweitert WHMCS um eine praktische Funktion: Kunden können Angebote (Quotes) direkt über einen sicheren Link in der Angebots-E-Mail akzeptieren, ohne sich im Kundenportal anmelden zu müssen. Nach der Annahme wird automatisch eine Rechnung erstellt und versendet.
